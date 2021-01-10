@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[LNGD]%2j{January|February|March|April|May|June|July|August|September|October|November|December} %1d, %3,4d</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[LNGD]%2j{Januari|Februari|Maret|April|Mei|Juni|Juli|Agustus|September|Oktober|November|Desember} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec} %1d, %3,4d</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[SHRD]%2j{Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Okt|Nov|Des} %1d, %3,4d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MON1]January</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MON1]Januari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MON2]February</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MON2]Februari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MON3]March</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MON3]Maret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MON5]May</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MON5]Mei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MON6]June</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MON6]Juni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MON7]July</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MON7]Juli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MON8]August</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MON8]Agustus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MONA]October</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MONA]Oktober</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[MONC]December</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[MONC]Desember</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[BOX2]Cancel</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T234350Z">
+        <seg>[BOX2]Batal</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

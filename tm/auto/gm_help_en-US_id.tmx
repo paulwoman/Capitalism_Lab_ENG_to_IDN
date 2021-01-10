@@ -1,0 +1,2223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Game difficulty level</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tingkat kesulitan game</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Choose one of eight pre-set difficulty levels.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pilih salah satu dari delapan tingkat kesulitan yang telah ditentukan sebelumnya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may also #Customize# or #Randomize# the game settings</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda juga dapat#Menyesuaikan# atau #Mengacak# pengaturan permainan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of Cities</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah Kota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Play with single or multiple cities.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Mainkan dengan satu atau beberapa kota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your start-up capital</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Modal awal Anda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Set the level of cash your corporation has at the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tetapkan tingkat uang yang dimiliki perusahaan Anda di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your Advantage</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Keuntungan Anda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Stock Market</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pasar saham</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The stock market allows for stock trading.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pasar saham memungkinkan untuk perdagangan saham.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Product Customization</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kustomisasi produk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is set to On, you will find the Product Customization tool in the Manufacturer's Guide.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini disetel ke On, Anda akan menemukan alat Kustomisasi Produk di Panduan Produsen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>("Technology Disruption" option is disabled when "Product Customization" is enabled.)</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>(Opsi "Gangguan Teknologi" dinonaktifkan saat "Kustomisasi Produk" diaktifkan.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Product Customization Range</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Rentang Kustomisasi Produk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Low - product customization applies to your company only; Medium - it applies to your company and your subsidiaries; High - it applies to all companies.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Rendah - penyesuaian produk hanya berlaku untuk perusahaan Anda; Medium - ini berlaku untuk perusahaan Anda dan anak perusahaan Anda; Tinggi - ini berlaku untuk semua perusahaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Private Company (Subsidiary DLC)</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Perusahaan Swasta (Anak Perusahaan DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is set to On, your company will start as a private company.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini disetel ke Aktif, perusahaan Anda akan dimulai sebagai perusahaan swasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Alternative Stock Sim</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Stock Alternatif Sim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is set to Yes, 1) stock prices are unaffected by the current economic state, and 2) stock trading between the player's company and its subsidiaries is prohibited, thus making it harder to speculate stocks for quick profits.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini disetel ke Ya, 1) harga saham tidak terpengaruh oleh keadaan ekonomi saat ini, dan 2) perdagangan saham antara perusahaan pemain dan anak perusahaannya dilarang, sehingga mempersulit spekulasi saham untuk mendapatkan keuntungan cepat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Random Events</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Peristiwa Acak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Allow such occurences as plagues, animal disease and power black-outs and their economic consequences.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Izinkan kejadian seperti wabah, penyakit hewan, dan pemadaman listrik serta konsekuensi ekonominya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Technology Disruption</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Gangguan Teknologi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it is set to On, technology disruption occurs constantly and all technology variables decrease by 10% every year.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika disetel ke On, gangguan teknologi terus terjadi dan semua variabel teknologi turun 10% setiap tahun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Friendly Merger</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Penggabungan Ramah AI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it is set to On, two AI corporations may merge with each other on mutually beneficial terms.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika disetel ke Aktif, dua perusahaan AI dapat bergabung satu sama lain dalam persyaratan yang saling menguntungkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Macro Economy Realism</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Realisme Ekonomi Makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it is set to High, the macro economy in the game will be simulated with a high level of realism.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika disetel ke Tinggi, ekonomi makro dalam game akan disimulasikan dengan realisme tingkat tinggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inflation</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Inflasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inflation is enabled when this option is set to On.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Inflasi diaktifkan saat opsi ini disetel ke On.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it is set to Inverse Inflation, monetary amounts are adjusted based on their net purchasing power.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ditetapkan ke Invers Inflasi, jumlah moneter disesuaikan berdasarkan daya beli bersih mereka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Purchasing Power Index starts at 100% and diminishes over those years with inflation.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Indeks Daya Beli dimulai dari 100% dan berkurang selama tahun-tahun itu dengan inflasi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All cash and loan amounts will shrink in accordance to this Purchasing Power Index.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Semua uang tunai dan jumlah pinjaman akan menyusut sesuai dengan Indeks Daya Beli ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Inflation Strength</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kekuatan Inflasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Select Reduced Inflation Strength if you prefer less strong inflation.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pilih Kekuatan Inflasi yang Dikurangi jika Anda lebih suka inflasi yang tidak terlalu kuat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As such, it will have the inflation artificially suppressed.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Dengan demikian, inflasi akan ditekan secara artifisial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retail store type</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jenis toko ritel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Choose 'Many' to allow specialist stores, such as supermarkets, furniture stores etc., or 'One' to have only department stores.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pilih 'Banyak' untuk mengizinkan toko khusus, seperti supermarket, toko furnitur, dll., Atau 'Satu' untuk hanya memiliki toko serba ada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Game starting year</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Game dimulai tahun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you set it to a later year, there will be fewer types of technology that you have to research, as some of them will be already available when the game starts.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika Anda menyetelnya ke tahun berikutnya, akan ada lebih sedikit jenis teknologi yang harus Anda teliti, karena beberapa di antaranya sudah tersedia saat permainan dimulai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of AI Competitors</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah Pesaing AI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines the number of AI controlled corporations.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan jumlah perusahaan yang dikendalikan AI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Competitors' Start-up Capital</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Modal Awal Pesaing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines the sizes of start-up capital of AI controlled corporations.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan ukuran modal awal perusahaan yang dikendalikan AI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There will be AI corporations focused on real estate, media and technology if this is set to High or above.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Akan ada perusahaan AI yang berfokus pada real estat, media, dan teknologi jika disetel ke Tinggi atau lebih tinggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Expansion Aggressiveness</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Agresivitas Ekspansi AI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines how aggressive AI companies are in pursuing business expansions.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan seberapa agresif perusahaan AI dalam mengejar ekspansi bisnis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Expertise Level</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tingkat Keahlian AI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines the expertise levels of AI persons in the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan tingkat keahlian orang AI dalam game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Show competitors' trade secrets</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tunjukkan rahasia dagang pesaing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you select "Yes", you will be able to access the trade secrets of all AI companies in the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika Anda memilih "Ya", Anda akan dapat mengakses rahasia dagang semua perusahaan AI di dalam game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Competence of local competitors</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kompetensi pesaing lokal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It determines the competence of local competitors - their general capabilities to sell high quality products at competitive prices.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan kompetensi pesaing lokal - kemampuan umum mereka untuk menjual produk berkualitas tinggi dengan harga bersaing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of seaports Importing Consumer Goods per City</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah pelabuhan yang Mengimpor Barang Konsumsi per Kota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A high number of consumer seaports increases the availability of consumer goods which companies may import and sell at retail.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah pelabuhan konsumen yang tinggi meningkatkan ketersediaan barang konsumen yang dapat diimpor dan dijual oleh perusahaan secara eceran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of seaports Importing Industrial Goods per City</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah pelabuhan yang Mengimpor Barang Industri per Kota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A high number of industrial seaports increases the availability of manufacturing materials.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Sejumlah besar pelabuhan industri meningkatkan ketersediaan bahan manufaktur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>New seaports Emerge during the game</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pelabuhan baru Muncul selama pertandingan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Choose to allow the creation of new import sources.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pilih untuk mengizinkan pembuatan sumber impor baru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Constant import supply</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pasokan impor konstan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Constant supplies ease the problems of stockpiling products and the search for alternative supplies.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Persediaan yang konstan meringankan masalah penimbunan produk dan pencarian persediaan alternatif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Import quality</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kualitas import</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Low quality products offer the chance for fledgling local manufacturers to compete.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Produk berkualitas rendah menawarkan kesempatan bagi pabrikan lokal pemula untuk bersaing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>High quality products offer a more attractive retail prospect to the consumer.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Produk berkualitas tinggi menawarkan prospek ritel yang lebih menarik bagi konsumen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You must confirm this before sending this Challenge Game to other players.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda harus mengonfirmasi ini sebelum mengirim Game Tantangan ini ke pemain lain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may start the game first, then adjust the challenge game and goal settings as needed, and finally confirm them.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda dapat memulai permainan terlebih dahulu, kemudian menyesuaikan permainan tantangan dan pengaturan tujuan sesuai kebutuhan, dan terakhir mengonfirmasinya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>How-to web page</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Halaman web petunjuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Launch a web browser and open the web page with instructions on how to set up a private challenge game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Luncurkan browser web dan buka halaman web dengan instruksi tentang cara mengatur permainan tantangan pribadi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Perempuan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Randomly disable product classes</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Nonaktifkan kelas produk secara acak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you select this check box, the system will randomly disable a specific percentage of product classes in the new game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Saat Anda memilih kotak centang ini, sistem akan secara acak menonaktifkan persentase tertentu dari kelas produk di game baru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Percentage of product classes to be disabled</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Persentase kelas produk yang akan dinonaktifkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Set the percentage of product classes to be disabled.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tetapkan persentase kelas produk yang akan dinonaktifkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This will make the competition more intense and improve gameplay, especially when playing a MOD game with a large variety of products.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Hal ini akan membuat persaingan semakin ketat dan meningkatkan gameplay terutama saat memainkan game MOD dengan produk yang sangat beragam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Percentage of competitors that are private companies (Subsidiary DLC)</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Persentase pesaing yang merupakan perusahaan swasta (Anak Perusahaan DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI companies are randomly set up as private companies based on this preference.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Perusahaan AI secara acak ditetapkan sebagai perusahaan swasta berdasarkan preferensi ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Your subsidiaries (Subsidiary DLC)</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anak perusahaan Anda (Anak Perusahaan DLC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The number of subsidiaries that your company owns at the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah anak perusahaan yang dimiliki perusahaan Anda di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Product List</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Daftar Produk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may exclude specific products from the game by either selecting them manually, or using the 'Random Disable Product Classes' feature to select them automatically.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda dapat mengecualikan produk tertentu dari permainan dengan memilihnya secara manual, atau menggunakan fitur 'Acak Nonaktifkan Kelas Produk' untuk memilihnya secara otomatis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>First City Cash Level (City Economic Simulation DLC)</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tingkat Kas Kota Pertama (DLC Simulasi Ekonomi Kota)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The first city's cash level at the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Level uang kota pertama di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Public Expenses Index</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Indeks Pengeluaran Publik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This index affects the recurring expenses of public facilities, which impacts the game's difficulty when playing as a mayor.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Indeks ini memengaruhi biaya berulang fasilitas umum, yang berdampak pada kesulitan permainan saat bermain sebagai walikota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it is set to a higher value, the same public facility incurs larger operating expenses.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ditetapkan ke nilai yang lebih tinggi, fasilitas umum yang sama menimbulkan biaya operasional yang lebih besar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Retail Store Floors</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Lantai Toko Eceran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Choose 'Multiple' to allow for setting up multiple floors in a single retail store.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pilih 'Beberapa' untuk memungkinkan pengaturan beberapa lantai dalam satu toko ritel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Donations to Rival Political Parties</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Donasi untuk Partai Politik Saingan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you set this to a value greater than zero, rival political parties will receive donations from the general public over time.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika Anda menyetelnya ke nilai yang lebih besar dari nol, partai politik pesaing akan menerima sumbangan dari masyarakat umum seiring waktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This setting is mainly for increasing the difficulty level of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengaturan ini terutama untuk meningkatkan tingkat kesulitan game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Random Product Reinvention</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Penemuan Ulang Produk Acak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When you select this check box, the system will randomly lock a specific percentage of product classes in the new game and require the player to "reinvent" them in R&amp;D centers.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Saat Anda memilih kotak centang ini, sistem akan secara acak mengunci persentase tertentu dari kelas produk di game baru dan meminta pemain untuk "menemukan kembali" mereka di pusat R&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Percentage of products requiring reinvention</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Persentase produk yang membutuhkan penemuan kembali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Set the percentage of products to be locked initially in the game, which can be unlocked via R&amp;D invention projects.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Setel persentase produk yang akan dikunci pada awalnya dalam game, yang dapat dibuka kuncinya melalui proyek penemuan R&amp;D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Note that the player person's expertise product class will not be locked.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Perhatikan bahwa kelas produk keahlian orang pemain tidak akan dikunci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LANDPRIC</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>HARGA TANAH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Land Price Index</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Indeks Harga Tanah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this index is higher than 100, land prices in this game will be higher than normal.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika indeks ini lebih tinggi dari 100, harga tanah di game ini akan lebih tinggi dari biasanya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Conversely, if this index is lower than 100, companies can buy land at generally lower costs.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Sebaliknya, jika indeks ini lebih rendah dari 100, perusahaan dapat membeli tanah dengan biaya yang umumnya lebih rendah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Software Revenue Index</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Indeks Pendapatan Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this index is higher than 100, the demand and revenue from software products in this game will be higher than normal.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika indeks ini lebih tinggi dari 100, permintaan dan pendapatan dari produk perangkat lunak dalam game ini akan lebih tinggi dari biasanya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Conversely, if this index is lower than 100, software businesses will be less profitable.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Sebaliknya, jika indeks ini lebih rendah dari 100, bisnis software akan kurang menguntungkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Internet Revenue Index</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Indeks Pendapatan Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this index is higher than 100, revenue generated by Internet companies will be higher than normal.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika indeks ini lebih tinggi dari 100, pendapatan yang dihasilkan oleh perusahaan Internet akan lebih tinggi dari biasanya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Conversely, if this index is lower than 100, Internet companies will be less profitable.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Sebaliknya, jika indeks ini lebih rendah dari 100, perusahaan internet akan kurang menguntungkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Acquires Private Companies</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>AI Mengakuisisi Perusahaan Swasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines whether AI corporations may acquire independent private companies or not.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan apakah perusahaan AI dapat mengakuisisi perusahaan swasta independen atau tidak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Will AI tech companies go IPO?</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Akankah perusahaan teknologi AI melakukan IPO?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, private AI tech companies from the Digital Age DLC may go public on the stock exchange.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan, perusahaan teknologi AI swasta dari Digital Age DLC dapat go public di bursa saham.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it is set to a value, AI companies will go public within the specified number of years.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ditetapkan ke suatu nilai, perusahaan AI akan go public dalam jumlah tahun yang ditentukan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>E-commerce</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Perdagangan elektronik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, companies will be able to build e-commerce firms and sell products via e-commerce.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan, perusahaan akan dapat membangun perusahaan e-commerce dan menjual produk melalui e-commerce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Smart Phone Company First-mover Advantage</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Keuntungan Perusahaan Penggerak Pertama AI Smart Phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Smart phone companies run by AI will have higher initial capital and start with more advanced tech for Smart Phone and OS.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Perusahaan ponsel pintar yang dijalankan oleh AI akan memiliki modal awal yang lebih tinggi dan mulai dengan teknologi yang lebih canggih untuk Smart Phone dan OS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Game Console Company First-mover Advantage</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Keuntungan Penggerak Pertama Perusahaan Konsol Game AI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Game console companies run by AI will have higher initial capital.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Perusahaan konsol game yang dijalankan oleh AI akan memiliki modal awal yang lebih tinggi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LOANINT</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>PINJAMAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Base Loan Interest Rate</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Suku Bunga Pinjaman Dasar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This modifies the base interest rate which affects #bonds# and #bank loans#.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini mengubah suku bunga dasar yang memengaruhi #obligasi# dan #pinjaman bank#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A higher interest rate increases borrowing costs, posing greater challenges for companies that take on debt to expand.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tingkat bunga yang lebih tinggi meningkatkan biaya pinjaman, menimbulkan tantangan yang lebih besar bagi perusahaan yang berutang untuk melakukan ekspansi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Player Starts with Operating System (OS) Technologies</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Player Dimulai dengan Teknologi Sistem Operasi (OS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, the player will possess tech technologies in Operating System (OS) in the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan, pemain akan memiliki teknologi teknologi di Sistem Operasi (OS) di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Max AI Software and Internet Companies</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Max AI Software dan Perusahaan Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This option limits the maximum number of AI software and Internet companies in a game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Opsi ini membatasi jumlah maksimum perangkat lunak AI dan perusahaan Internet dalam sebuah game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A lower value means an easier game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Nilai yang lebih rendah berarti permainan yang lebih mudah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(You may set the limits for software and Internet companies separately using a script.)</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>(Anda dapat menetapkan batasan untuk perangkat lunak dan perusahaan Internet secara terpisah menggunakan skrip.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>TALENT</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>BAKAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Talent System</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Sistem Bakat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is set to Simplified, all talents start with a skill level of 50.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini disetel ke Sederhana, semua bakat mulai dengan tingkat keahlian 50.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is set to Greatly Simplified, loyalty and headhunting features of the talent system are disabled too.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini disetel ke Sangat Sederhana, fitur loyalitas dan pengayauan dari sistem bakat juga dinonaktifkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More Talents</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Lebih Banyak Bakat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may use this option to have the game duplicate talent data to increase the supply of talents.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda dapat menggunakan opsi ini agar game menduplikasi data bakat untuk meningkatkan pasokan bakat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Randomize Global Competitiveness Ratings</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Acak Peringkat Daya Saing Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, global competitiveness ratings across industries will be randomized in the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan, peringkat daya saing global di seluruh industri akan diacak di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is disabled, global competitiveness ratings will be initialized with a constant value of 30.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini dinonaktifkan, peringkat daya saing global akan diinisialisasi dengan nilai konstan 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Global Competitiveness Rating Increases</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Peringkat Daya Saing Global Meningkat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This option determines whether global competitiveness ratings will increase over time, progressively making the game more challenging.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Opsi ini menentukan apakah peringkat daya saing global akan meningkat seiring waktu, secara progresif membuat permainan menjadi lebih menantang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A higher value means that it increases at a faster rate.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Nilai yang lebih tinggi berarti meningkat dengan kecepatan yang lebih cepat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aggressiveness of AI banks and insurance companies</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Agresivitas bank AI dan perusahaan asuransi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A higher value means that AI banks will aggressively lure customers from competitors by offering higher deposit interest rates, and AI insurance companies will offer more competitively priced insurance products.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Nilai yang lebih tinggi berarti bank AI akan secara agresif memikat nasabah dari pesaing dengan menawarkan suku bunga simpanan yang lebih tinggi, dan perusahaan asuransi AI akan menawarkan produk asuransi dengan harga yang lebih kompetitif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SAVERATE</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>HEMAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Personal Savings Rate Modifier</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengubah Tarif Tabungan Pribadi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This slider modifies the personal savings rate.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Penggeser ini mengubah tingkat tabungan pribadi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A higher personal savings rate means that people will save and deposit more money into banks, thus boosting the profitability of banks in general.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tingkat tabungan pribadi yang lebih tinggi berarti orang akan menyimpan dan menyimpan lebih banyak uang ke bank, sehingga meningkatkan profitabilitas bank secara umum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>More Talents</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Lebih Banyak Bakat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may have the game duplicate talent data to increase the supply of talents.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda mungkin memiliki data bakat duplikat game untuk meningkatkan pasokan bakat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use this slider to set the percentage of additional talents that you want the game to generate for this new game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Gunakan penggeser ini untuk mengatur persentase talenta tambahan yang Anda ingin game tersebut hasilkan untuk game baru ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apartment Capacity Modifier</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengubah Kapasitas Apartemen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use this slider to modify the capacity of all apartments.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Gunakan panel geser ini untuk mengubah kapasitas semua apartemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>100 is the standard value.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>100 adalah nilai standar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lowering it decreases the number of people each apartment houses.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Menurunkan itu mengurangi jumlah orang di setiap rumah apartemen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that more apartments need to be built and the real estate business will be more profitable.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini berarti semakin banyak apartemen yang perlu dibangun dan bisnis real estate akan lebih menguntungkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Commercial Capacity Modifier</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengubah Kapasitas Komersial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use this slider to modify the capacity of all commercial buildings.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Gunakan bilah geser ini untuk mengubah kapasitas semua bangunan komersial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>100 is the standard value.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>100 adalah nilai standar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Lowering it will decrease the amount of office space each commercial building provides.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Menurunkan itu akan mengurangi jumlah ruang kantor yang disediakan setiap bangunan komersial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This means that more commercial buildings need to be built and the real estate business will be more profitable.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini berarti bahwa lebih banyak bangunan komersial perlu dibangun dan bisnis real estate akan lebih menguntungkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Technology Disruption</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Gangguan Teknologi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When Product Customization is enabled, Technology Disruption will be automatically turned off.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Saat Kustomisasi Produk diaktifkan, Gangguan Teknologi akan dimatikan secara otomatis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The logic behind this is that Product Customization relies on technology levels to increase linearly to function properly, whereas Technology Disruption reduces all technology levels across the board by 10% annually.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Logika di balik ini adalah bahwa Kustomisasi Produk bergantung pada tingkat teknologi untuk meningkat secara linier agar berfungsi dengan baik, sedangkan Gangguan Teknologi mengurangi semua tingkat teknologi secara keseluruhan sebesar 10% setiap tahun.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of AI Companies Focused on Banking</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah Perusahaan AI yang Berfokus pada Perbankan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines the number of AI companies focused on banking in the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan jumlah perusahaan AI yang berfokus pada perbankan di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Number of AI Companies Focused on Insurance</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah Perusahaan AI yang Berfokus pada Asuransi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines the number of AI companies focused on insurance business in the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan jumlah perusahaan AI yang fokus pada bisnis asuransi di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tendency of AI to set up banks</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kecenderungan AI untuk mendirikan bank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up banks.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kecenderungan perusahaan AI dengan strategi bisnis diversifikasi, yang dapat berkembang ke semua jenis industri, untuk mendirikan bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tendency of AI to set up insurance companies</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kecenderungan AI untuk mendirikan perusahaan asuransi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Tendency of AI companies with a diversification business strategy, which may expand into any types of industry, to set up insurance companies.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kecenderungan perusahaan AI dengan strategi bisnis diversifikasi, yang dapat berkembang ke semua jenis industri, untuk mendirikan perusahaan asuransi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurance Premiums Modifier</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengubah Premi Asuransi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Setting this to a value higher than 100 will increase revenues of all insurance companies.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Menyetelnya ke nilai yang lebih tinggi dari 100 akan meningkatkan pendapatan semua perusahaan asuransi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Insurance Claims</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Klaim asuransi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may customize the average amounts of insurance claims that insurance companies have to pay.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda dapat menyesuaikan jumlah rata-rata klaim asuransi yang harus dibayar perusahaan asuransi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A #lower insurance claims ratio# means a #higher profit margin# for insurance companies.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>#Rasio klaim asuransi yang lebih rendah# berarti #margin keuntungan yang lebih tinggi# untuk perusahaan asuransi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Corporate Deposit Cap, as a percentage of the total bank deposits.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Corporate Deposit Cap, sebagai persentase dari total deposito bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The bank regulation stipulates that deposits should be not concentrated on a small number of large depositors.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Peraturan bank menetapkan bahwa simpanan tidak boleh terkonsentrasi pada sejumlah kecil deposan besar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is a cap that limits the maximum amount of deposit each depositor can make.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ada batasan yang membatasi jumlah maksimum setoran yang dapat dilakukan setiap deposan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>EXPRESS</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>MENGEKSPRESIKAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Express Mode</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Mode Ekspres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When the Express mode is enabled, a new streamlined user interface will be used for retail stores, replacing the original 3x3 layout.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Saat mode Express diaktifkan, antarmuka pengguna baru yang disederhanakan akan digunakan untuk toko ritel, menggantikan tata letak 3x3 asli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Maximum Loans-to-Assets Ratio</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Rasio Pinjaman-ke-Aset Maksimum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines the #Absolute Maximum amount of loans# that a bank can lend out (including your bank and AI banks).</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan jumlah pinjaman #Absolute Maksimum# yang dapat dipinjamkan oleh bank (termasuk bank Anda dan bank AI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A conservative bank may set a lower #Maximum Loans-to-Assets ratio# on the bank HQ interface, provided that it does not exceed the one defined here.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Bank konservatif dapat menetapkan rasio #Maximum Loans-to-Assets# pada antarmuka kantor pusat bank, asalkan tidak melebihi yang ditentukan di sini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DEVCITY</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>PERANGKAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Developed City at the Beginning</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kota Berkembang di Awal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In Survival mode, there is only one city in the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Dalam mode Survival, hanya ada satu kota di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may set it as a developed city or a new city created from scratch.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda dapat menetapkannya sebagai kota maju atau kota baru yang dibuat dari awal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CITCASH1</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>CITCASH 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>City Initial Cash Level</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tingkat Kas Awal Kota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is for setting the cash levels of cities at the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini untuk mengatur level uang kota di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>City Initial Cash Level</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tingkat Kas Awal Kota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is for setting the cash levels of cities at the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini untuk mengatur tingkat uang tunai kota di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you want to see cities issuing bonds more often, so that you could invest into municipal bonds, you may set this setting to 'Low'.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika Anda ingin melihat kota menerbitkan obligasi lebih sering, sehingga Anda dapat berinvestasi ke obligasi daerah, Anda dapat menyetel pengaturan ini ke 'Rendah'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Percentage of Player Capital Funded by Bond</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Persentase Modal Pemain yang Didanai oleh Obligasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you are an experienced player looking for greater challenge, you may set a percentage of your corporation's #initial capital# to be #funded by a bond issue#, requiring you to pay bond interests and repay the bond principal upon its maturity.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika Anda adalah pemain berpengalaman yang mencari tantangan lebih besar, Anda dapat menetapkan persentase #modal awal# perusahaan Anda untuk #didanai oleh penerbitan obligasi#, yang mengharuskan Anda membayar bunga obligasi dan membayar kembali pokok obligasi pada saat jatuh tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bond Credit Standard</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Standar Kredit Obligasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With a #loose credit assessment standard#, all corporations will receive #better credit ratings# and benefit from #lower bond interest expenses#.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Dengan #standar penilaian kredit longgar#, semua perusahaan akan menerima peringkat kredit #lebih baik# dan mendapatkan keuntungan dari #biaya bunga obligasi yang lebih rendah#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bond Issue Limit</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Batas Penerbitan Obligasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The #maximum amounts of bonds# that a corporation can issue is limited to a #multiple of its capitalization#, which is set here.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>#Jumlah maksimum obligasi# yang dapat diterbitkan oleh perusahaan terbatas pada #beberapa kapitalisasi#, yang ditetapkan di sini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A higher value will allow a corporation to issue larger amounts of bonds.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Nilai yang lebih tinggi akan memungkinkan perusahaan untuk menerbitkan obligasi dalam jumlah yang lebih besar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Feature: Bond</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Fitur: Ikatan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this feature is enabled, corporations will able to able to issue bonds to raise capital, and the bond market will be accessible.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika fitur ini diaktifkan, korporasi akan dapat menerbitkan obligasi untuk meningkatkan modal, dan pasar obligasi dapat diakses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Feature: Bank</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Fitur: Bank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This setting determines whether banks can be set up in the game or not.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengaturan ini menentukan apakah bank dapat diatur dalam permainan atau tidak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Initial Net Interest Spread</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Selisih Bunga Bersih Awal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Net interest spread refers to the difference in the #rate at which a bank takes deposits from customers# and the #rate at which it offers loans#.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Selisih bunga bersih mengacu pada perbedaan #tingkat di mana bank mengambil simpanan dari pelanggan# dan #tingkat penawaran pinjaman#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A larger net interest spread means a greater profit margin for a bank.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Selisih bunga bersih yang lebih besar berarti margin keuntungan yang lebih besar bagi bank.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Required Bank Capital Ratio</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Rasio Modal Bank yang Dibutuhkan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The central bank requires banks to set aside enough capital to cover unexpected losses and keep themselves solvent in a crisis. A #capital ratio# is the ratio of a bank's #equity capital# to its #total assets#.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Bank sentral mengharuskan bank untuk menyisihkan cukup modal untuk menutupi kerugian tak terduga dan menjaga diri mereka sendiri dalam menghadapi krisis.#Rasio modal# adalah rasio #modal ekuitas bank# dengan #total aset#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Feature: Insurance Business</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Fitur: Bisnis Asuransi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This setting determines whether insurance companies can be set up in the game or not.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengaturan ini menentukan apakah perusahaan asuransi dapat didirikan dalam permainan atau tidak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Feature: Global Stock Market</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Fitur: Pasar Saham Global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This setting determines whether the global stock market is enabled in the game or not.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengaturan ini menentukan apakah pasar saham global diaktifkan dalam permainan atau tidak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Pricing Aggressiveness</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Agresivitas Penetapan Harga AI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines how far the AI companies will go in lowering prices of their products in order to grab market share from competitors.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan seberapa jauh perusahaan AI akan menurunkan harga produk mereka untuk merebut pangsa pasar dari pesaing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this is set to low, you can expect most products to enjoy healthy profit margins and companies will be in general more profitable.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini disetel ke rendah, Anda dapat mengharapkan sebagian besar produk menikmati margin keuntungan yang sehat dan perusahaan secara umum akan lebih menguntungkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Economy's Impact on Loan Defaults</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Dampak Ekonomi pada Pinjaman Macet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It determines the economy's impact on the loan default rate.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan dampak ekonomi pada tingkat gagal bayar pinjaman.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this is set to a higher value, loan defaults will soar at a higher rate during an economic downturn, leading to a potential liquidity crisis.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ketika nilai ini ditetapkan ke nilai yang lebih tinggi, kredit macet akan melonjak pada tingkat yang lebih tinggi selama penurunan ekonomi, yang mengarah ke potensi krisis likuiditas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Boom-Bust Cycle Volatility</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Volatilitas Siklus Boom-Bust</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This adjusts the economy's impact on consumer demand, which affects GDP and in turn affects the volatility of the boom-bust cycle.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menyesuaikan dampak ekonomi terhadap permintaan konsumen, yang memengaruhi PDB dan pada gilirannya memengaruhi volatilitas siklus boom-bust.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(The boom-bust cycle is the expansion and contraction in the economic cycle that occurs repeatedly.)</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>(Siklus boom-bust adalah ekspansi dan kontraksi dalam siklus ekonomi yang terjadi berulang kali.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Initial Stock Price Modifier</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pengubah Harga Saham Awal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The initial prices of the global stocks are loaded from a database.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Harga awal saham global dimuat dari database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>You may use this modifier to change the initial prices of all global stocks.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Anda dapat menggunakan pengubah ini untuk mengubah harga awal semua saham global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A lower Modifier value leads to lower initial stock prices, which promise more gain for the global stock market down the road.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Nilai Modifier yang lebih rendah mengarah pada harga saham awal yang lebih rendah, yang menjanjikan keuntungan lebih untuk pasar saham global di masa mendatang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Difficulty Level for Banking and Finance DLC</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Tingkat Kesulitan DLC Perbankan dan Keuangan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use this to set the overall difficulty level for operating banks and insurance companies.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Gunakan ini untuk mengatur tingkat kesulitan keseluruhan untuk mengoperasikan bank dan perusahaan asuransi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Realistic Money Supply</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Uang Beredar Realistis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, money supply is more realistically simulated.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan, jumlah uang beredar disimulasikan secara lebih realistis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Akan lebih sulit bagi pemain dan perusahaan AI untuk mengumpulkan dana dari IPO, menerbitkan saham dan obligasi baru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>PREPARE</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>MEMPERSIAPKAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Prepare Unit</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Siapkan Unit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled and you are using a #MOD# with defined #service firms#, you will be able to set up #Prepare Units# in #service firms#.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan dan Anda menggunakan #MOD# dengan #perusahaan layanan yang ditentukan#, Anda akan dapat mengatur #Prepare Unit# di #perusahaan layanan#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>IMPORT</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>IMPOR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Import Firm</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Perusahaan Impor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, you will be able to set up Import Firms for importing products and materials.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan, Anda akan dapat mengatur Perusahaan Impor untuk mengimpor produk dan bahan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Import Product Variety</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Impor Variasi Produk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines the variety of products available via imports in the beginning of the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan variasi produk yang tersedia melalui impor di awal permainan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Import Increase</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Peningkatan Impor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, the variety of products available via imports will increase over time.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan, variasi produk yang tersedia melalui impor akan meningkat seiring waktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Constant Supply</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pasokan Konstan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines whether product supplies via imports are constantly available.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan apakah pasokan produk melalui impor selalu tersedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Semi Products</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Produk Semi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, only #Semi Products# are available via imports.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan, hanya #Semi Products# yang tersedia melalui impor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Consumer products are not available via imports.)</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>(Produk konsumen tidak tersedia melalui impor.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Realistic Loan Demand</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Permintaan Pinjaman yang Realistis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this is enabled, the #demand for bank loans# is correlated to the total GDP of the cities.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika ini diaktifkan,#permintaan pinjaman bank# berkorelasi dengan total PDB kota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Corporate Logo Selection</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pemilihan Logo Perusahaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click here to open the Corporate Logo selection window.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Klik di sini untuk membuka jendela pemilihan Logo Perusahaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SELPHOTO</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>SELFOTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Portrait Selection</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pemilihan Potret</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Click here to open the Portrait selection window.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Klik di sini untuk membuka jendela pemilihan Potret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Warehouse Floors</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Lantai Gudang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Choose #Multiple# to allow for setting up multiple floors in a warehouse.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Pilih #Multiple# untuk memungkinkan pengaturan beberapa lantai di gudang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>AI Tech Head Start</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kepala AI Tech Mulai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If you want a more challenging game, you may give AI companies head starts in fields of technology that they specialize in, which means #higher starting tech levels#.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika Anda menginginkan game yang lebih menantang, Anda dapat memberi tahu perusahaan AI awal di bidang teknologi yang menjadi spesialisasi mereka, yang berarti #tingkat teknologi awal yang lebih tinggi#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Disruption to Traditional Media</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Gangguan pada Media Tradisional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this is enabled, the traditional media (TV, Radio and Newspaper) will be disrupted by the Internet.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ketika ini diaktifkan, media tradisional (TV, Radio dan Koran) akan terganggu oleh Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As people embrace the Internet, they will spend more time online and less time on the traditional media.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Saat orang-orang menggunakan Internet, mereka akan menghabiskan lebih banyak waktu untuk online dan lebih sedikit waktu di media tradisional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Venture Capitalists</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Kapitalis Ventura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>#Venture Capitalists# with #billions of net worth# will join the game when this feature is enabled.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>#Pemodal Ventura# dengan #milyaran dana# akan bergabung dalam game ketika fitur ini diaktifkan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>#Venture Capitalists# only invest in companies in #pre-IPO rounds#.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>#Pemodal Ventura# hanya berinvestasi di perusahaan dalam #putaran pra-IPO#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They are committed to long-term investment and do not actively trade stock.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Mereka berkomitmen untuk investasi jangka panjang dan tidak aktif memperdagangkan saham.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Number of Venture Capitalists</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jumlah Kapitalis Ventura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For gameplay balance, when #Realistic Money Supply# is enabled, the game will automatically assign a minimum of #5 Venture Capitalists# to the game.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Untuk keseimbangan gameplay, ketika #Suplai Keuangan# diaktifkan, game secara otomatis akan menetapkan minimal #5 Pemodal Ventura# ke dalam game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, if #Survival Mode# is enabled, then #Venture Capitalists# can be set to any number.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Namun, jika #Survival Mode# diaktifkan, maka #Pemodal Ventura# dapat disetel ke sembarang nomor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VC Capital Size</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ukuran Modal VC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This sets the average capital size of a venture capitalist.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan ukuran modal rata-rata dari seorang pemodal ventura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Investment Diversification</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Diversifikasi Investasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This determines how #diversified# a venture capitalist's investment portfolio will be.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ini menentukan bagaimana #diversifikasi# portofolio investasi pemodal ventura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Typically a single investment, as a percentage of the VC's total #net worth#, will not exceed the percent specified here.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Biasanya satu investasi, sebagai persentase dari total #net senilai#, tidak akan melebihi persentase yang ditentukan di sini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Realistic Money Supply</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Uang Beredar Realistis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This option can only be used in conjuction with #City Economic Simulation DLC#.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Opsi ini hanya dapat digunakan bersama dengan #City Economic Simulation DLC#.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it is enabled, money supply is more realistically simulated.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Jika diaktifkan, jumlah uang beredar disimulasikan secara lebih realistis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It will be more difficult for player and AI companies to raise funds from IPO, issuing new shares and bonds.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Akan lebih sulit bagi pemain dan perusahaan AI untuk mengumpulkan dana dari IPO, menerbitkan saham dan obligasi baru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Acquire Companies Facing Bankruptcy</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Akuisisi Perusahaan yang Menghadapi Kebangkrutan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When this setting is enabled, when a company is facing bankruptcy, you will be given the option to rescue it by acquiring all the shares of the company.</seg>
+      </tuv>
+      <tuv xml:lang="id" creationid="OmegaT Aligner" creationdate="20210110T233414Z">
+        <seg>Ketika pengaturan ini diaktifkan, ketika sebuah perusahaan menghadapi kebangkrutan, Anda akan diberikan opsi untuk menyelamatkannya dengan mengakuisisi semua saham perusahaan.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

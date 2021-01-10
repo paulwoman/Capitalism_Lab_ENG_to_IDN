@@ -318,6 +318,118 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234217Z" creationid="Olivier" creationdate="20210110T234217Z">
+        <seg>// AI Friendly Merger=&lt;On, Off&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Competence of Local Competitors=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234217Z" creationid="Olivier" creationdate="20210110T234217Z">
+        <seg>// Competence of Local Competitors=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Competitor Aggressiveness=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234217Z" creationid="Olivier" creationdate="20210110T234217Z">
+        <seg>// Competitor Aggressiveness=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Competitor Expertise Level=&lt;None, Low, Moderate, High&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234217Z" creationid="Olivier" creationdate="20210110T234217Z">
+        <seg>// Competitor Expertise Level=&lt;None, Low, Moderate, High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Competitor Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234217Z" creationid="Olivier" creationdate="20210110T234217Z">
+        <seg>// Competitor Start-up Capital=&lt;Very Low, Low, Moderate, High, Very High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234218Z" creationid="Olivier" creationdate="20210110T234218Z">
+        <seg>// Constant Import Supply=&lt;Yes,No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Consumer Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234218Z" creationid="Olivier" creationdate="20210110T234218Z">
+        <seg>// Consumer Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234218Z" creationid="Olivier" creationdate="20210110T234218Z">
+        <seg>// Import Quality=&lt;Low,Moderate,High&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Industrial Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234218Z" creationid="Olivier" creationdate="20210110T234218Z">
+        <seg>// Industrial Goods Seaports per City=&lt;0-4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Number of Competitors=&lt;1 to 30&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234216Z" creationid="Olivier" creationdate="20210110T234216Z">
+        <seg>// Number of Competitors=&lt;1 to 30&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234218Z" creationid="Olivier" creationdate="20210110T234218Z">
+        <seg>// Please note that you may create a game up with no seaport using a game script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// Show Competitor Trade Secrets=&lt;Yes, No&gt;</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234217Z" creationid="Olivier" creationdate="20210110T234217Z">
+        <seg>// Show Competitor Trade Secrets=&lt;Yes, No&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// You may set the number of competitors to any number between 1 and 30.</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234216Z" creationid="Olivier" creationdate="20210110T234216Z">
+        <seg>// You may set the number of competitors to any number between 1 and 30.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>// this should only be used if you intend to create a game scenario with such characteristics.</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234218Z" creationid="Olivier" creationdate="20210110T234218Z">
+        <seg>// this should only be used if you intend to create a game scenario with such characteristics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>//------------------------------------------------------------------------------------------------//</seg>
       </tuv>
       <tuv lang="id" changeid="Olivier" changedate="20210110T234215Z" creationid="Olivier" creationdate="20210110T234215Z">
@@ -2426,6 +2538,14 @@
       </tuv>
       <tuv lang="id" changeid="OmegaT Aligner" changedate="20210110T233710Z" creationid="OmegaT Aligner" creationdate="20210110T233710Z">
         <seg>Tetapi jika perusahaan kehabisan uang tunai, CEO harus menerbitkan saham baru untuk mengumpulkan dana demi kelangsungan hidup perusahaan terlepas dari pengaturan ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But the AI companies¡¯ performances will suffer and</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234218Z" creationid="Olivier" creationdate="20210110T234218Z">
+        <seg>But the AI companies¡¯ performances will suffer and</seg>
       </tuv>
     </tu>
     <tu>
@@ -7062,10 +7182,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goal Description=Achieve an annual revenue of $20 million to complete this tutorial.</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234221Z" creationid="Olivier" creationdate="20210110T234221Z">
+        <seg>Goal Description=Achieve an annual revenue of $20 million to complete this tutorial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goal Report (hotkey: G)</seg>
       </tuv>
       <tuv lang="id" changeid="OmegaT Aligner" changedate="20210110T233710Z" creationid="OmegaT Aligner" creationdate="20210110T233710Z">
         <seg>Laporan Tujuan (hotkey: G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goal Title=Tutorial Goal</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234221Z" creationid="Olivier" creationdate="20210110T234221Z">
+        <seg>Goal Title=Tutorial Goal</seg>
       </tuv>
     </tu>
     <tu>
@@ -16538,6 +16674,14 @@
       </tuv>
       <tuv lang="id" changeid="OmegaT Aligner" changedate="20210110T233710Z" creationid="OmegaT Aligner" creationdate="20210110T233710Z">
         <seg>Jalan Pintas ke Ringkasan Perusahaan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
+      </tuv>
+      <tuv lang="id" changeid="Olivier" changedate="20210110T234217Z" creationid="Olivier" creationdate="20210110T234217Z">
+        <seg>Show Competitor Trade Secrets=Yes</seg>
       </tuv>
     </tu>
     <tu>
